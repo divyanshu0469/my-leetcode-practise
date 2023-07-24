@@ -1,5 +1,5 @@
 # my-leetcode-practise
-In this repositoory i will be adding multiple readme solutions for different leetcode questions done by me on daily basis as a practise.
+In this repository I will be adding multiple text files solutions for different leetcode questions done by me on daily basis as a practise.
 
 Question number will be given with my personal solution to the respective problem.
 
