@@ -1,7 +1,7 @@
 # leetcode
 
-{Question URL}[https://leetcode.com/problems/build-array-from-permutation/description/]
-
+ - 1920. Build Array from Permutation
+[Question URL](https://leetcode.com/problems/build-array-from-permutation/description/)
 class Solution {
     public int[] buildArray(int[] nums) {
         int length_og = nums.length;
